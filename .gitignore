@@ -1,0 +1,24 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter generated files
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local tooling and secrets
+.env
+.vscode/
+
+# Scrapy generated output and caches
+.scrapy/
+httpcache/
+
+# OS files
+.DS_Store
+Thumbs.db
